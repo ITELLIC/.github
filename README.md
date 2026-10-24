@@ -1,2 +1,21 @@
-# .github
-ITELLIC is a technology company specializing in custom software development, web and mobile app development, AI solutions, automation, cloud technologies, and digital transformation. We help businesses innovate, streamline operations, and grow with scalable, reliable, and modern technology solutions.  Website: https://www.itellic.com/
+# ITELLIC
+
+**Building Digital Solutions That Matter**
+
+ITELLIC delivers technology solutions for businesses, including:
+
+- Custom Software Development
+- Web Application Development
+- Mobile App Development
+- AI Solutions and Automation
+- Digital Transformation
+
+## Our Mission
+
+To help businesses grow through reliable, scalable, and innovative technology.
+
+## Connect With Us
+
+- Website: https://www.itellic.com/
+
+For business enquiries, please visit our website.
